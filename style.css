@@ -1,0 +1,26 @@
+body
+{
+	background-color: #f0f0f0;
+
+}
+
+.headerforbuttons
+{
+	border-style: solid;
+	border-color: black;
+	border-width: 2px;
+	height: 200px;
+	width: 90%;	
+}
+
+.gifcontainer
+{
+	height: 80%;
+	margin-right: 30px;
+}
+
+.usersearchclass
+{
+	height: 100px;
+
+}
